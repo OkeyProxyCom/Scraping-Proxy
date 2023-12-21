@@ -4,6 +4,8 @@ In this article, we’ll take a look at what is proxy scarping, why use proxies 
 # What Are Scraping Proxies?
 A scraping proxy is a server that acts as an intermediary between a web scraper (the client) and the website being scraped. When a scraper sends a request to a website, it goes through the proxy server first, which then forwards the request to the website. The website’s response also passes through the proxy before reaching the scraper. The primary purpose of a scraping proxy is to mask the scraper’s IP address, thus protecting the scraper from being detected and blocked by the website.
 
+Learn more: https://www.okeyproxy.com/proxy/
+
 # Types of Web Scraping Proxies
 1. Datacenter Proxies: These are the most common type of proxy. They are not affiliated with ISPs and are instead provided by a third-party service, giving you a private and anonymous IP address. While they are faster and more affordable than residential proxies, they are also easier for websites to detect and block. And there’s a higher risk of being flagged and blacklisted by certain sites.
    
@@ -25,7 +27,8 @@ Text tutorial: https://www.okeyproxy.com/proxy/how-to-use-scraping-proxy-in-2023
 # The Best Proxy Servers for Web Scraping
 ![image](https://github.com/OkeyProxyCom/Scraping-Proxy/assets/150340973/a33c44e0-6e4c-4310-ba02-749a4976146e)
 
-1. OkeyProxy: OkeyProxy is the Top 5 Socks5 Proxies Provider with 150M+ Real Residential IPs and covers over 200 Countries. It’s committed to providing a full range of big data collection services for large/small/micro enterprises in all walks of life. It Supports almost all devices with Windows, IOS, Android, Linux, and use cases of Antidetect Browser, Emulator, Scraper, etc. It is worth mentioning that you can use it conveniently, and there’s no cost for unavailable IP, the price is fair compared with other proxy servers. Besides, it provides a 1GB proxy free trial to test the product for free. https://www.okeyproxy.com/register
+OkeyProxy: OkeyProxy is the Top 5 Socks5 Proxies Provider with 150M+ Real Residential IPs and covers over 200 Countries. It’s committed to providing a full range of big data collection services for large/small/micro enterprises in all walks of life. It Supports almost all devices with Windows, IOS, Android, Linux, and use cases of Antidetect Browser, Emulator, Scraper, etc. It is worth mentioning that you can use it conveniently, and there’s no cost for unavailable IP, the price is fair compared with other proxy servers. Besides, it provides a 1GB proxy free trial to test the product for free. https://www.okeyproxy.com/register
+
 
 
 
